@@ -1,0 +1,29 @@
+# Deep Learning & Object Detection Frameworks
+torch
+torchvision
+ultralytics         # YOLOv8
+super-gradients     # YOLO-NAS
+
+# Core Data Processing & Analysis
+numpy
+pandas
+scipy
+scikit-learn
+PyYAML
+
+# Computer Vision & Image Handling
+opencv-python
+pillow
+
+# Plotting & Visualization
+matplotlib
+
+# IoT / Messaging (if used in thesis pipeline)
+paho-mqtt
+
+# Cloud & Storage (if fetching weights from AWS S3)
+boto3
+
+# Notebook Environment (Optional for running .ipynb)
+jupyter
+ipykernel

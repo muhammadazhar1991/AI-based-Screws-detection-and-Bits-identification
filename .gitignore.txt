@@ -1,0 +1,8 @@
+ Model checkpoints and weights
+*.pt
+*.pth
+*.onnx
+*.engine
+ModelCheckpoints/
+weights/
+runs/
