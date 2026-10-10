@@ -13,12 +13,14 @@ The project evaluates state-of-the-art vision architectures (**YOLOv8** by Ultra
 - **Inference Latency:** Frame-rate (FPS) performance under constrained edge hardware setups.
 - **Robustness:** Performance under varying lighting conditions, component orientations, and occlusion.
 
+
 ---
 🛠️ Tech Stack & Frameworks
-Deep Learning Frameworks: PyTorch, Ultralytics (YOLOv8), SuperGradients (YOLO-NAS)
-Computer Vision: OpenCV, PIL, Albumentations
-Data & Metrics: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
-Environment: Jupyter Notebook, Python 3.10+
+
+    Deep Learning Frameworks: PyTorch, Ultralytics (YOLOv8), SuperGradients (YOLO-NAS)
+    Computer Vision: OpenCV, PIL, Albumentations
+    Data & Metrics: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+    Environment: Jupyter Notebook, Python 3.10+
 ---
 
 ## 📂 Repository Structure
