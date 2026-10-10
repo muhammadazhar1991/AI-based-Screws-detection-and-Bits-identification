@@ -16,11 +16,8 @@ The project evaluates state-of-the-art vision architectures (**YOLOv8** by Ultra
 ---
 🛠️ Tech Stack & Frameworks
 Deep Learning Frameworks: PyTorch, Ultralytics (YOLOv8), SuperGradients (YOLO-NAS)
-
 Computer Vision: OpenCV, PIL, Albumentations
-
 Data & Metrics: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
-
 Environment: Jupyter Notebook, Python 3.10+
 ---
 
